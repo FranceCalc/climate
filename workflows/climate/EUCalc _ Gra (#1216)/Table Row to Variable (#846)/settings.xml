@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack">
+<config key="Variable_0">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="RowID"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value=""/>
+</config>
+<config key="Variable_1">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 109"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_2">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 108"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_3">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 107"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_4">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 106"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_5">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 105"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_6">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 104"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_7">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 103"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_8">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 102"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_9">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 101"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_10">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 100"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_11">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 99"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_12">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 98"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_13">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 97"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_14">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 96"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_15">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 95"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_16">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 94"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_17">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 93"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_18">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 92"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_19">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 91"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_20">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 90"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_21">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 89"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_22">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 88"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_23">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 87"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_24">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 86"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_25">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 85"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_26">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 84"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_27">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 83"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_28">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 82"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_29">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 81"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_30">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 80"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_31">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 79"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_32">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 78"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_33">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 77"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_34">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 76"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_35">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 75"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_36">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 74"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_37">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 73"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_38">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 72"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_39">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 71"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_40">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 70"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_41">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 69"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_42">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 68"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_43">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 67"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_44">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 66"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_45">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 65"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_46">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 64"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_47">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 63"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_48">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 62"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_49">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 61"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_50">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 60"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_51">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 59"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_52">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 58"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_53">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 57"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_54">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 56"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_55">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 55"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_56">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 54"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_57">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 53"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_58">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 52"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_59">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 51"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_60">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 50"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_61">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 49"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_62">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 48"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_63">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 47"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_64">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 46"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_65">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 45"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_66">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 44"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_67">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 43"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_68">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 42"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_69">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 41"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_70">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 40"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_71">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 39"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_72">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 38"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_73">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 37"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_74">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 36"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_75">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 35"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_76">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 34"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_77">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 33"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_78">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 32"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_79">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 31"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_80">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 30"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_81">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 29"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_82">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 28"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_83">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 27"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_84">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 26"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_85">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 25"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_86">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 24"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_87">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 23"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_88">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 22"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_89">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 21"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_90">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 20"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_91">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 19"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_92">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 18"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_93">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 17"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_94">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 16"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_95">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 15"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_96">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 14"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_97">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 13"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_98">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 12"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_99">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 11"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_100">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 10"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_101">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 9"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_102">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 8"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_103">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 7"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_104">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 6"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_105">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 5"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_106">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 4"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_107">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 3"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_108">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 2"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_109">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 1"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_110">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 0"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="missing"/>
+</config>
+<config key="Variable_111">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="RowID"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="Column Header"/>
+</config>
+<config key="Variable_112">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 109"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="dhg_emissions-CO2e_solid-ff-coal[Mt]"/>
+</config>
+<config key="Variable_113">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 108"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="dhg_emissions-CO2e_solid-bio[Mt]"/>
+</config>
+<config key="Variable_114">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 107"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="dhg_emissions-CO2e_liquid-ff-heatingoil[Mt]"/>
+</config>
+<config key="Variable_115">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 106"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="dhg_emissions-CO2e_heat-solar[Mt]"/>
+</config>
+<config key="Variable_116">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 105"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="dhg_emissions-CO2e_heat-geothermal[Mt]"/>
+</config>
+<config key="Variable_117">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 104"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="dhg_emissions-CO2e_heat-ambient[Mt]"/>
+</config>
+<config key="Variable_118">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 103"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="dhg_emissions-CO2e_gas-ff-natural[Mt]"/>
+</config>
+<config key="Variable_119">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 102"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_solid-ff-coal[Mt]"/>
+</config>
+<config key="Variable_120">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 101"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_solid-bio[Mt]"/>
+</config>
+<config key="Variable_121">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 100"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_residential_sfh[Mt]"/>
+</config>
+<config key="Variable_122">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 99"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_residential_mfh[Mt]"/>
+</config>
+<config key="Variable_123">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 98"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_residential_appliances[Mt]"/>
+</config>
+<config key="Variable_124">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 97"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_non-residential_trade[Mt]"/>
+</config>
+<config key="Variable_125">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 96"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_non-residential_other[Mt]"/>
+</config>
+<config key="Variable_126">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 95"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_non-residential_offices[Mt]"/>
+</config>
+<config key="Variable_127">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 94"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_non-residential_hotels[Mt]"/>
+</config>
+<config key="Variable_128">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 93"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_non-residential_health[Mt]"/>
+</config>
+<config key="Variable_129">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 92"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_non-residential_education[Mt]"/>
+</config>
+<config key="Variable_130">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 91"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_non-residential_appliances[Mt]"/>
+</config>
+<config key="Variable_131">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 90"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_liquid-ff-heatingoil[Mt]"/>
+</config>
+<config key="Variable_132">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 89"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_heat-solar[Mt]"/>
+</config>
+<config key="Variable_133">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 88"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_heat-geothermal[Mt]"/>
+</config>
+<config key="Variable_134">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 87"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_heat-ambient[Mt]"/>
+</config>
+<config key="Variable_135">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 86"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bld_emissions-CO2e_gas-ff-natural[Mt]"/>
+</config>
+<config key="Variable_136">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 85"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="tra_emissions-CO2e_passenger_rail[Mt]"/>
+</config>
+<config key="Variable_137">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 84"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="tra_emissions-CO2e_passenger_metro-tram[Mt]"/>
+</config>
+<config key="Variable_138">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 83"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="tra_emissions-CO2e_passenger_bus[Mt]"/>
+</config>
+<config key="Variable_139">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 82"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="tra_emissions-CO2e_passenger_aviation[Mt]"/>
+</config>
+<config key="Variable_140">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 81"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="tra_emissions-CO2e_passenger_LDV[Mt]"/>
+</config>
+<config key="Variable_141">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 80"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="tra_emissions-CO2e_passenger_2W[Mt]"/>
+</config>
+<config key="Variable_142">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 79"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="tra_emissions-CO2e_freight_rail[Mt]"/>
+</config>
+<config key="Variable_143">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 78"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="tra_emissions-CO2e_freight_marine[Mt]"/>
+</config>
+<config key="Variable_144">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 77"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="tra_emissions-CO2e_freight_aviation[Mt]"/>
+</config>
+<config key="Variable_145">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 76"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="tra_emissions-CO2e_freight_IWW[Mt]"/>
+</config>
+<config key="Variable_146">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 75"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="tra_emissions-CO2e_freight_HDV[Mt]"/>
+</config>
+<config key="Variable_147">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 74"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_wwp[Mt]"/>
+</config>
+<config key="Variable_148">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 73"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_tra-equip[Mt]"/>
+</config>
+<config key="Variable_149">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 72"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_textiles[Mt]"/>
+</config>
+<config key="Variable_150">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 71"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_steel[Mt]"/>
+</config>
+<config key="Variable_151">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 70"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_paper[Mt]"/>
+</config>
+<config key="Variable_152">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 69"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_ois[Mt]"/>
+</config>
+<config key="Variable_153">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 68"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_mae[Mt]"/>
+</config>
+<config key="Variable_154">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 67"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_lime[Mt]"/>
+</config>
+<config key="Variable_155">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 66"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_glass[Mt]"/>
+</config>
+<config key="Variable_156">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 65"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_fbt[Mt]"/>
+</config>
+<config key="Variable_157">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 64"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_copper[Mt]"/>
+</config>
+<config key="Variable_158">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 63"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_chem[Mt]"/>
+</config>
+<config key="Variable_159">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 62"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_cement[Mt]"/>
+</config>
+<config key="Variable_160">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 61"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_biogenic_steel[Mt]"/>
+</config>
+<config key="Variable_161">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 60"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_biogenic_paper[Mt]"/>
+</config>
+<config key="Variable_162">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 59"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_biogenic_lime[Mt]"/>
+</config>
+<config key="Variable_163">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 58"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_biogenic_chem[Mt]"/>
+</config>
+<config key="Variable_164">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 57"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_biogenic_cement[Mt]"/>
+</config>
+<config key="Variable_165">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 56"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="ind_emissions-CO2e_aluminium[Mt]"/>
+</config>
+<config key="Variable_166">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 55"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_wetland-rem-wetland[Mt]"/>
+</config>
+<config key="Variable_167">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 54"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_settlement-rem-settlement[Mt]"/>
+</config>
+<config key="Variable_168">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 53"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_other-rem-other[Mt]"/>
+</config>
+<config key="Variable_169">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 52"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_land-to-wetland[Mt]"/>
+</config>
+<config key="Variable_170">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 51"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_land-to-settlement[Mt]"/>
+</config>
+<config key="Variable_171">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 50"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_land-to-other[Mt]"/>
+</config>
+<config key="Variable_172">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 49"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_land-to-grassland[Mt]"/>
+</config>
+<config key="Variable_173">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 48"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_land-to-forest[Mt]"/>
+</config>
+<config key="Variable_174">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 47"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_land-to-cropland[Mt]"/>
+</config>
+<config key="Variable_175">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 46"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_grassland-rem-grassland[Mt]"/>
+</config>
+<config key="Variable_176">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 45"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_forest-rem-forest[Mt]"/>
+</config>
+<config key="Variable_177">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 44"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="lus_emissions-CO2e_cropland-rem-cropland[Mt]"/>
+</config>
+<config key="Variable_178">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 43"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_treated_meat_sheep[Mt]"/>
+</config>
+<config key="Variable_179">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 42"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_treated_meat_poultry[Mt]"/>
+</config>
+<config key="Variable_180">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 41"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_treated_meat_pig[Mt]"/>
+</config>
+<config key="Variable_181">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 40"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_treated_meat_oth-animals[Mt]"/>
+</config>
+<config key="Variable_182">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 39"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_treated_meat_bovine[Mt]"/>
+</config>
+<config key="Variable_183">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 38"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_treated_abp_hens-egg[Mt]"/>
+</config>
+<config key="Variable_184">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 37"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_treated_abp_dairy-milk[Mt]"/>
+</config>
+<config key="Variable_185">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 36"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_pasture_meat_sheep[Mt]"/>
+</config>
+<config key="Variable_186">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 35"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_pasture_meat_poultry[Mt]"/>
+</config>
+<config key="Variable_187">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 34"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_pasture_meat_pig[Mt]"/>
+</config>
+<config key="Variable_188">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 33"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_pasture_meat_oth-animals[Mt]"/>
+</config>
+<config key="Variable_189">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 32"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_pasture_meat_bovine[Mt]"/>
+</config>
+<config key="Variable_190">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 31"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_pasture_abp_hens-egg[Mt]"/>
+</config>
+<config key="Variable_191">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 30"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_pasture_abp_dairy-milk[Mt]"/>
+</config>
+<config key="Variable_192">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 29"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_enteric_meat_sheep[Mt]"/>
+</config>
+<config key="Variable_193">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 28"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_enteric_meat_poultry[Mt]"/>
+</config>
+<config key="Variable_194">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 27"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_enteric_meat_pig[Mt]"/>
+</config>
+<config key="Variable_195">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 26"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_enteric_meat_oth-animals[Mt]"/>
+</config>
+<config key="Variable_196">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 25"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_enteric_meat_bovine[Mt]"/>
+</config>
+<config key="Variable_197">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 24"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_enteric_abp_hens-egg[Mt]"/>
+</config>
+<config key="Variable_198">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 23"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_enteric_abp_dairy-milk[Mt]"/>
+</config>
+<config key="Variable_199">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 22"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_applied_meat_sheep[Mt]"/>
+</config>
+<config key="Variable_200">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 21"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_applied_meat_poultry[Mt]"/>
+</config>
+<config key="Variable_201">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 20"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_applied_meat_pig[Mt]"/>
+</config>
+<config key="Variable_202">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 19"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_applied_meat_oth-animals[Mt]"/>
+</config>
+<config key="Variable_203">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 18"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_applied_meat_bovine[Mt]"/>
+</config>
+<config key="Variable_204">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 17"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_applied_abp_hens-egg[Mt]"/>
+</config>
+<config key="Variable_205">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 16"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_liv_applied_abp_dairy-milk[Mt]"/>
+</config>
+<config key="Variable_206">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 15"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_crop_soil-residues[Mt]"/>
+</config>
+<config key="Variable_207">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 14"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_crop_rice[Mt]"/>
+</config>
+<config key="Variable_208">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 13"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_crop_fertilizer[Mt]"/>
+</config>
+<config key="Variable_209">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 12"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_emissions-CO2e_crop_burnt-residues[Mt]"/>
+</config>
+<config key="Variable_210">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 11"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="elc_emissions-CO2e_fossil_oil[Mt]"/>
+</config>
+<config key="Variable_211">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 10"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="elc_emissions-CO2e_fossil_natural-gas[Mt]"/>
+</config>
+<config key="Variable_212">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 9"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="elc_emissions-CO2e_fossil_coal[Mt]"/>
+</config>
+<config key="Variable_213">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 8"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="elc_emissions-CO2e_RES_bio[Mt]"/>
+</config>
+<config key="Variable_214">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 7"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="fos_emissions-CO2e[Mt]"/>
+</config>
+<config key="Variable_215">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 6"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="amm_emissions-CO2e[Mt]"/>
+</config>
+<config key="Variable_216">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 5"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="bdy_emissions-CO2e[Mt]"/>
+</config>
+<config key="Variable_217">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 4"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="clm_total_CO2e_ems[MtCO2e]"/>
+</config>
+<config key="Variable_218">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 3"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_input-use_emissions-CO2_urea[Mt]"/>
+</config>
+<config key="Variable_219">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 2"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_input-use_emissions-CO2_liming[Mt]"/>
+</config>
+<config key="Variable_220">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 1"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="agr_input-use_emissions-CO2_fuel[Mt]"/>
+</config>
+<config key="Variable_221">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="Column 0"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="Years"/>
+</config>
+</config>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="CFG_FAILONMISS_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="CFG_FAILONMISS" type="xstring" value="Use Defaults"/>
+<config key="CFG_Integer_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="CFG_Integer" type="xint" value="0"/>
+<config key="CFG_Double_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="CFG_Double" type="xdouble" value="0.0"/>
+<config key="CFG_String_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="CFG_String" type="xstring" value="missing"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.flowvariable.tablerowtovariable.TableToVariableNodeFactory"/>
+<entry key="node-name" type="xstring" value="Table Row to Variable"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-bundle-version" type="xstring" value="3.7.2.v201904170949"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-feature-version" type="xstring" value="3.7.2.v201904171038"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Table Row to Variable"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObjectSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObject"/>
+<entry key="port_object_summary" type="xstring" value="Variables connection"/>
+<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="e7b04594-b534-4212-99b2-1d44a678ba33"/>
+</config>
+</config>
